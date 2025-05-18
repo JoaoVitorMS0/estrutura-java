@@ -34,9 +34,9 @@ sistema-ordenacao-empresas/
 │           ├── FileManager.java    # Gerenciamento de arquivos
 │           ├── BubbleSort.java     # Algoritmo de ordenação
 │           └── Main.java           # Ponto de entrada
-├── data/
-│   ├── Empresas_BubbleSort.txt     # Entrada (exemplo)
-│   └── Empresas_Ordenadas.txt      # Saída (gerado)
+├── Empresas_BubbleSort.txt     # Entrada (exemplo)
+├── Empresas_Ordenadas.txt      # Saída (gerado)
+│  
 ├── lib/                            # Dependências
 ├── target/                         # Arquivos compilados
 └── README.md                       # Esta documentação
@@ -75,8 +75,6 @@ javac -d target src/com/estudo/*.java
 ```bash
 java -cp target com.estudo.Main
 ```
-
-4. Os arquivos serão procurados em `data/` por padrão.
 
 ## Formato dos Arquivos
 
@@ -117,14 +115,6 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 
-Desenvolvido por **\[Seu Nome]** - 2024 | [Estrutura de Dados S.A.](https://www.example.com)
+Desenvolvido por **\[João Vitor]** - 2025
 
 ---
-
-Se quiser, posso:
-
-* Substituir `[Seu Nome]` e os links com valores reais
-* Adicionar um exemplo de tela ou terminal executando
-* Gerar a estrutura como imagem, se você quiser compartilhar visualmente fora do GitHub
-
-Quer isso também?
