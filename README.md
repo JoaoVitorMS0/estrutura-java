@@ -60,7 +60,7 @@ sistema-ordenacao-empresas/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/ordenacao-empresas.git
+git clone https://github.com/JoaoVitorMS0/estrutura-java.git
 cd ordenacao-empresas
 ```
 
