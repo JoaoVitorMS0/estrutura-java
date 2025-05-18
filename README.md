@@ -34,6 +34,7 @@ sistema-ordenacao-empresas/
 │           ├── FileManager.java    # Gerenciamento de arquivos
 │           ├── BubbleSort.java     # Algoritmo de ordenação
 │           └── Main.java           # Ponto de entrada
+│
 ├── Empresas_BubbleSort.txt     # Entrada (exemplo)
 ├── Empresas_Ordenadas.txt      # Saída (gerado)
 │  
