@@ -116,6 +116,6 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ---
 
-Desenvolvido por **\João Vitor, Caio e Antonio** - 2025
+Desenvolvido por **João Vitor, Caio e Antonio** - 2025
 
 ---
